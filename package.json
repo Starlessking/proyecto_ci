@@ -1,0 +1,13 @@
+{
+  "name": "ci-github-actions-demo",
+  "version": "1.0.0",
+  "description": "Proyecto demo para CI con GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
